@@ -1,5 +1,5 @@
 # crawler-reddit
-Para rodar o projeto instale as dependência
+Para rodar o projeto instale as dependências
 
 `
 $ npm i
